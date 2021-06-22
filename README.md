@@ -1,6 +1,6 @@
 # PPF_cpp
 
-A simple implementation of PPF-Matching[1] using the c++ code.
+A simple implementation of Drost[1] using the c++ code.
 
 The function ReadPLY needs modification according to your data.
 
