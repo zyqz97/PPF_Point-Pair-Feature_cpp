@@ -1,6 +1,6 @@
 # PPF_cpp
 
-PPF-Matching cpp-version.
+A simple implementation of PPF-Matching[1] using the c++ code.
 
 The function ReadPLY needs modification according to your data.
 
