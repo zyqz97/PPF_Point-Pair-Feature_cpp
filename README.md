@@ -1,6 +1,6 @@
 # PPF_Point-Pair-Feature_cpp
 
-A simple implementation of Drost[1] using the c++ code.
+A simple C++ implementation of the Point-pair feature method proposed by Drost et al. [1]
 
 The function ReadPLY needs modification according to your data.
 
