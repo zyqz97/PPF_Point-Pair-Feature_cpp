@@ -1,4 +1,4 @@
-# PPF_cpp
+# PPF_Point-Pair-Feature_cpp
 
 A simple implementation of Drost[1] using the c++ code.
 
